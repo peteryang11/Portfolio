@@ -830,7 +830,7 @@ body.offcanvas .colorlib-nav-toggle {
 	position: absolute;
 	display: block;
 	width: 4px;
-	background: #f9bf3f;
+	background:rgb(152, 194, 249);
 	top: 20px;
 	bottom: 20px;
 	margin-left: 29px;
@@ -902,7 +902,7 @@ body.offcanvas .colorlib-nav-toggle {
 
 .timeline-centered .timeline-entry .timeline-entry-inner .timeline-label {
 	position: relative;
-	background: #f9bf3f;
+	background: rgb(152, 194, 249);
 	color: #000;
 	padding: 1.5em;
 	margin-left: 60px;
